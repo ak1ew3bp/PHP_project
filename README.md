@@ -68,6 +68,7 @@ Open in your browser:
 arduino
 Copy code
 http://localhost/photoGallery/
+
 🎯 Purpose
 This project was developed for our Technopreneurship / Web Development course.
 It demonstrates the integration of:
@@ -78,14 +79,6 @@ A backend powered by PHP
 
 A MySQL database for storing and retrieving image information
 
-👨‍💻 Team Members
-[Your Name] – PHP & Database Developer
-
-[Member 2] – Frontend Developer (HTML/Bootstrap)
-
-[Member 3] – Designer
-
-[etc.]
 
 📜 License
 This project is for academic purposes only.
